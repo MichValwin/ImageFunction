@@ -8,3 +8,5 @@ All of them under MIT license
 
 ## Notes for compilation
 I compile this for windows only and because i am a noob at creating CMakeLists, the compiler specified for c and c++ it's hardcoded in the CMakeLists.
+
+![image of a Barnley Fern](https://github.com/MichaelValwin/ImageFunction/raw/main/images/fern.jpg?raw=true)
